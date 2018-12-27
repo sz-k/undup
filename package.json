@@ -1,0 +1,20 @@
+{
+  "name": "undup",
+  "version": "1.0.0",
+  "description": "remove duplicate downloads and copy-pastes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sz-k/undup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sz-k/undup/issues"
+  },
+  "homepage": "https://github.com/sz-k/undup#readme"
+}
